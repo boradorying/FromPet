@@ -36,7 +36,7 @@
 
 <div align="center">
 
-| **박세준** | **사석현** | **이승현** | **이수진** |
+| **박세준(팀장)** | **사석현(부팀장)** | **이승현(팀원)** | **이수진(팀원)** |
 | :------: |  :------: | :------: | :------: |
 | [<img src= "https://github.com/NBCampFinalProject/FromPet/assets/106301222/3a256a71-5a3f-4fa2-8e69-81086de97bd8" height=180 width=180> <br/> @boradorying](https://github.com/boradorying) | [<img src="https://github.com/NBCampFinalProject/FromPet/assets/106301222/9c8d5ad1-4a24-4ea4-b374-c8c9161fa6f3" height=180 width=180> <br/> @4seokhyeon](https://github.com/4seokhyeon)| [<img src="https://github.com/NBCampFinalProject/FromPet/assets/106301222/11049fcc-d48f-4cfa-a839-f85f1d3f12fc" height=180 width=180> <br/> @shyr0809](https://github.com/shyr0809)|[<img src="https://github.com/NBCampFinalProject/FromPet/assets/106301222/3826a521-c98c-4f73-b944-25c704bd87b1" height=180 width=180> <br/> @sooj36](https://github.com/sooj36) |
 </div>
