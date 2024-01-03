@@ -1,4 +1,4 @@
-# 반려동물 커뮤니티 앱 FROMPET
+# 반려동물 커뮤니티 앱 FromPet
 
 ![frompet](https://github.com/NBCampFinalProject/FromPet/assets/106301222/7107c904-d779-4371-a31a-7582e0334cae)
 
